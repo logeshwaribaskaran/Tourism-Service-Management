@@ -156,7 +156,7 @@ const DestinationManager = () => {
       { 
         id: 4, 
         name: "Kashmir", 
-        image: "https://images.pexels.com/photos/1627898/pexels-photo-1627898.jpeg", 
+        image: "https://media.istockphoto.com/id/458632837/photo/shikaras-and-houseboats-in-lake-dal.jpg?s=612x612&w=0&k=20&c=BW9kYP23ARuGi0t7ddBvz2kC_zWnSCuk38KMOe00EgQ=", 
         price: "$799",
         priceNumeric: 799, 
         rating: 4.6,
@@ -196,7 +196,7 @@ const DestinationManager = () => {
   description: "Explore the historic capital of England featuring iconic landmarks, world-class museums, and vibrant culture.",
   nights: 5,
   days: 6,
-  featured: true,
+  featured: false,
   location: "Europe",
   itineraryHighlights: [
     "Arrival in London and Thames River cruise",
@@ -229,7 +229,7 @@ const DestinationManager = () => {
   description: "Experience luxury and adventure in the ultramodern city with towering skyscrapers and desert excursions.",
   nights: 5,
   days: 6,
-  featured: true,
+  featured: false,
   location: "Middle East",
   itineraryHighlights: [
     "Arrival in Dubai and Dhow Cruise Dinner",
@@ -262,7 +262,7 @@ const DestinationManager = () => {
   description: "Discover the perfect blend of modernity and tradition in this clean, green island city-state.",
   nights: 4,
   days: 5,
-  featured: true,
+  featured: false,
   location: "Southeast Asia",
   itineraryHighlights: [
     "Arrival and Night Safari adventure",
@@ -295,7 +295,7 @@ const DestinationManager = () => {
   description: "Explore the vibrant capital of Thailand with its ornate shrines, floating markets and exciting nightlife.",
   nights: 4,
   days: 5,
-  featured: true,
+  featured: false,
   location: "Southeast Asia",
   itineraryHighlights: [
     "Arrival and Chao Phraya River cruise",
@@ -329,7 +329,7 @@ const DestinationManager = () => {
   description: "Experience the Big Apple with its iconic skyline, Broadway shows, world-class shopping, and diverse neighborhoods.",
   nights: 6,
   days: 7,
-  featured: true,
+  featured: false,
   location: "North America",
   itineraryHighlights: [
     "Arrival and Times Square tour",
@@ -364,7 +364,7 @@ const DestinationManager = () => {
   description: "Discover the fascinating blend of ultramodern and traditional in Japan's buzzing capital city.",
   nights: 7,
   days: 8,
-  featured: true,
+  featured: false,
   location: "East Asia",
   itineraryHighlights: [
     "Arrival and Shibuya Crossing experience",
@@ -399,7 +399,7 @@ const DestinationManager = () => {
   description: "Explore the eternal city with its ancient ruins, art treasures, and delicious cuisine.",
   nights: 5,
   days: 6,
-  featured: true,
+  featured: false,
   location: "Europe",
   itineraryHighlights: [
     "Arrival in Rome and transfer to hotel",
@@ -434,7 +434,7 @@ const DestinationManager = () => {
   description: "Enjoy the stunning harbor, beautiful beaches, and vibrant culture of Australia's famous city.",
   nights: 7,
   days: 8,
-  featured: true,
+  featured: false,
   location: "Oceania",
   itineraryHighlights: [
     "Arrival in Sydney and transfer to hotel",
